@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html> 
+    <head>
+        <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML' async></script>
+        <style> 
+
+        </style>
+    </head>
+
+    <body>
+        <header> Displayed header </header> 
+        <main> 
+            The unique content of the page.
+        </main>
+        <footer> Displayed footer </footer>
+    </body>
+</html>
